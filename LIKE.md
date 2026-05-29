@@ -14,7 +14,7 @@
 
 **Помощь проекту:**
 
-- Lualanel — терпение, тепло и поддержка во время разработки
+- Lualanel — терпение, забота и поддержка на всём пути разработки
 - Hilltrigger — архитектура и помощь с ошибками
 - Jevgenij, Annonas, Алексей Морозов — тесты, советы и обратная связь
 
@@ -30,7 +30,7 @@ People I am grateful to for supporting the project:
 
 **Project support:**
 
-- Lualanel — patience, warmth and support during development
+- Lualanel — patience, care and support throughout the development journey
 - Hilltrigger — architecture and bug-fixing help
 - Jevgenij, Annonas, Alexey Morozov — testing, advice and feedback
 
